@@ -10,6 +10,11 @@
       "StackName": "amplify-appone-dev-113735",
       "StackId": "arn:aws:cloudformation:us-east-1:357328348596:stack/amplify-appone-dev-113735/daadb400-d269-11ee-a3a3-0e38d9d6c7c9",
       "AmplifyAppId": "d3crvnkz4bi2yc"
+    },
+    "categories": {
+      "auth": {
+        "appone6645d1a3": {}
+      }
     }
   }
 }
